@@ -29,15 +29,15 @@ Run Instructions:
 
 2. Navigate to your desired working directory:
 
-cd /your/path
+ cd /your/path
 
 3. Clone the repository:
 
-git clone https://github.com/your-username/SmartGridColors
+ git clone https://github.com/your-username/SmartGridColors
 
 4. Enter the project directory:
 
-cd SmartGridColors
+ cd SmartGridColors
 
 5. Run the app:
 
