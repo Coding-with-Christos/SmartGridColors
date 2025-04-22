@@ -1,5 +1,4 @@
 # SmartGridColors
-SmartGridColors Description
 
 A Python GUI application that allows users to analyze and fix colors in images via an interactive grid interface. Built using Tkinter and Pillow (PIL), with no use of external APIs or server interaction.
 
